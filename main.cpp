@@ -4,5 +4,7 @@ using namespace std;
 
 void main
 {
-cout << "Kate!!!"<<endl;
+
+cout << "String after merge in master!!!"<<endl;
+
 }
