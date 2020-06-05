@@ -7,4 +7,6 @@ void main
 
 cout << "String after merge in master!!!"<<endl;
 
+cout << "Rabotaem dlya githubba!!!"<<endl;
+
 }
